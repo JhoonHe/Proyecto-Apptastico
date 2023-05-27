@@ -369,7 +369,7 @@ footer {
     justify-content: space-between;
     align-items: start;
     background-color: white;
-    box-shadow: inset 0px 1px 1px rgb(129, 129, 129);
+    border-top: 1px solid rgb(190, 190, 190);
     height: 100px;
     padding-top: 30px;
     color: #4c5b66;
